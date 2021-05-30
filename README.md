@@ -7,7 +7,7 @@ _O programa foi desenvolvido em linguagem Python versão 3.7.10._
 
 1. **Extrair os argumentos de entrada**
 
-	Descobrir o que é coordenada do ponto inicial, posição inicial das sondas e suas respectivas sequencia de movimentos.<br>
+	Abrir o arquivo de entrada passado como parâmetro e descobrir o que é coordenada do ponto superior-direito, posição inicial das sondas e suas respectivas sequencia de movimentos.<br>
 	<br>
 
 2. **Organizar os dados por Sonda**
